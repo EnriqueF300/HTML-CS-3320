@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rickster's CV</title>
+</head>
+<body>
+
+    <!-- Main Heading -->
+    <h1>Rickster's CV</h1>
+
+    <!-- Paragraph Section -->
+    <p>The wonderful thing about <strong>Ricksters</strong> is <strong>Ricksters</strong> are wonderful things.<br>
+    Their brains are made out of flubber, they love to eat chicken wings.<br>
+    Their bouncey, trouncey, flouncey, pouncey, fun, fun, fun, fun, fun.<br>
+    But the most wonderful thing about <strong>Ricksters</strong> is I'm the only one.<br>
+    (Apologies to Robert B. Sherman)
+    </p>
+
+    <p>Learn more about Ricksters <a href="#">here</a>.</p>
+
+    <!-- Skills Section -->
+    <h2>Ricksters got Skillz</h2>
+    <ul>
+        <li>Can count past 10 without taking off shoes</li>
+        <li>Expert consumer of visual media</li>
+        <li>Walks on water (when frozen)</li>
+    </ul>
+
+    <!-- Education Section -->
+    <h2>Education</h2>
+    <ul>
+        <li>Kindergarden, 1968. Master of Romp & Play</li>
+        <li>University of Texas at Austin, 1887, BYob.</li>
+        <li>School of Hard Knocks. Magna cum quiete</li>
+    </ul>
+
+    <!-- Experience Section -->
+    <h2>Experience</h2>
+    <ul>
+        <li>Profus Maximus, Texas State University, 2017 - Present</li>
+        <li><a href="#">Super Ninja Programmer</a>, Renaissance - Present</li>
+        <li><a href="#">Ninja Programmer</a>, Stone Age - Renaissance</li>
+        <li>Programmer, Beginning of Time - Stone Age</li>
+        <li>School of Hard Knocks. Magna cum quiete</li>
+    </ul>
+
+    <!-- Multiplication Section -->
+    <h2>Ricksters are so smart, they can multiply!</h2>
+    <pre>
+    times  1  2  3  4  5
+     1    1  2  3  4  5
+     2    2  4  6  8 10
+     3    3  6  9 12 15
+     4    4  8 12 16 20
+     5    5 10 15 20 25
+    </pre>
+
+    <!-- Image Section -->
+    <h2>This is my cat. He's <em>bad-ass!</em></h2>
+    <img src="https://via.placeholder.com/150" alt="A cartoon alligator" width="150">
+
+</body>
+</html>
+
+
