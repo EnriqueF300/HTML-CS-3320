@@ -3,51 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rickster's CV</title>
+    <title>Bobcat's CV</title>
 </head>
 <body>
 
     <!-- Main Heading -->
-    <h1>Rickster's CV</h1>
+    <h1>Bobcat's CV</h1>
 
     <!-- Paragraph Section -->
-    <p>The wonderful thing about <strong>Ricksters</strong> is <strong>Ricksters</strong> are wonderful things.<br>
-    Their brains are made out of flubber, they love to eat chicken wings.<br>
-    Their bouncey, trouncey, flouncey, pouncey, fun, fun, fun, fun, fun.<br>
-    But the most wonderful thing about <strong>Ricksters</strong> is I'm the only one.<br>
-    (Apologies to Robert B. Sherman)
+    <p>The wonderful thing about <strong>Bobcats</strong> is that <strong>Bobcats</strong> are fierceful creatures.<br>
+    Their brains are filled with savage juice and they love to eat chicken wings RAW.<br>
+    Bobcats are wild and love to jump on trampolines in random people's backyards.<br>
+    But the craziest thing about <strong>Bobcats</strong> is that theres only one, named <strong>Boko</strong>.<br>
     </p>
 
     <p>Learn more about Ricksters <a href="#">here</a>.</p>
 
     <!-- Skills Section -->
-    <h2>Ricksters got Skillz</h2>
+    <h2>Bokos got Skillz</h2>
     <ul>
-        <li>Can count past 10 without taking off shoes</li>
-        <li>Expert consumer of visual media</li>
-        <li>Walks on water (when frozen)</li>
+        <li>Can do 10 flips on water</li>
+        <li>Ice skate on air</li>
+        <li>Take 15 Tequila shots back to back</li>
     </ul>
 
     <!-- Education Section -->
     <h2>Education</h2>
     <ul>
-        <li>Kindergarden, 1968. Master of Romp & Play</li>
-        <li>University of Texas at Austin, 1887, BYob.</li>
-        <li>School of Hard Knocks. Magna cum quiete</li>
+        <li>Kindergarden, 1990. Head Lineleader.</li>
+        <li>Sixth Street Christian University, 1995.</li>
+        <li>School of Rice Krispie, 1999.</li>
     </ul>
 
     <!-- Experience Section -->
     <h2>Experience</h2>
     <ul>
-        <li>Profus Maximus, Texas State University, 2017 - Present</li>
-        <li><a href="#">Super Ninja Programmer</a>, Renaissance - Present</li>
-        <li><a href="#">Ninja Programmer</a>, Stone Age - Renaissance</li>
-        <li>Programmer, Beginning of Time - Stone Age</li>
-        <li>School of Hard Knocks. Magna cum quiete</li>
+        <li>Professor Boko, Sixth Street Christian University, 2017</li>
+        <li><a href="#">Super Ninja Programmer,</a>, Renaissance - Present</li>
+        <li><a href="#">Suoer Duper Watermelon Launcher</a>, Stone Age - Renaissance</li>
+        <li>Melon Launcher, Beginning of Time - Stone Age</li>
+        <li>School of Rice Krispie, 1999.</li>
     </ul>
 
     <!-- Multiplication Section -->
-    <h2>Ricksters are so smart, they can multiply!</h2>
+    <h2>Bobcats are so smart, they can multiply!</h2>
     <pre>
     times  1  2  3  4  5
      1    1  2  3  4  5
@@ -58,10 +57,9 @@
     </pre>
 
     <!-- Image Section -->
-    <h2>This is my cat. He's <em>bad-ass!</em></h2>
-    <img src="https://via.placeholder.com/150" alt="A cartoon alligator" width="150">
+    <h2>This is my bearshark. He's <em>bad-ass!</em></h2>
+    <img src="https://static.wikia.nocookie.net/creatures-of-past-present-and-mythology/images/c/c5/BEAR_SHARK.png/revision/latest/scale-to-width-down/356?cb=20150106235346" alt="bearshark" width="150">
 
 </body>
 </html>
-
 
